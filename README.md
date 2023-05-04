@@ -15,4 +15,9 @@ everything from small to very large projects
 with speed and efficiency.
 
 
-1.printind calander for mat by using date 
+1.printind calander for mat by using month
+  and year as input.
+
+2.By giving numbers as input,find the smallest
+  and largest number.
+3.
