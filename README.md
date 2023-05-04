@@ -22,8 +22,13 @@ with speed and efficiency.
   and largest number.
 3.Finding the given input year is a leap year
   Or not.
+
 4.By sending a number as input and finding
   That number is a palindrome or not.
 5.Giving input number of rows,prints the
   pascal triangle.
+6.By giving the input of numbers,to find the
+  number is a prime number or not.
+7.By using Unic codes,print the emojis.
+
 
