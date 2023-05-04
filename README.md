@@ -34,4 +34,7 @@ with speed and efficiency.
 8.By giving number of rows as input and print.   
   The pyramid pattern.
 9.By importingthe random, design a rock, pepper and
-  Sico
+  Scissors game.
+10.Using input numbers as coefficients of x²
+   ,X and constant, program to find the roots
+   Of a Quadratic equation.
