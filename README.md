@@ -31,4 +31,7 @@ with speed and efficiency.
   number is a prime number or not.
 7.By using Unic codes,print the emojis.
 
-
+8.By giving number of rows as input and print.   
+  The pyramid pattern.
+9.By importingthe random, design a rock, pepper and
+  Sico
