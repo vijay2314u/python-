@@ -23,4 +23,7 @@ with speed and efficiency.
 3.Finding the given input year is a leap year
   Or not.
 4.By sending a number as input and finding
-  That number is a palindrome or not
+  That number is a palindrome or not.
+5.Giving input number of rows,prints the
+  pascal triangle.
+
