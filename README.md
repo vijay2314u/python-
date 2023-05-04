@@ -20,4 +20,7 @@ with speed and efficiency.
 
 2.By giving numbers as input,find the smallest
   and largest number.
-3.
+3.Finding the given input year is a leap year
+  Or not.
+4.By sending a number as input and finding
+  That number is a palindrome or not
